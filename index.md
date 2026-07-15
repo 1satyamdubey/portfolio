@@ -42,7 +42,7 @@ I build automation scripts, debug complex code, and make technical concepts begi
 
 ## 🏆 Achievements
 - Solved **250+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks.  
-- Codolio Portfolio: [codolio.com/profile/ishivxnshh](https://codolio.com/profile/ishivxnshh)  
+- Codolio Portfolio:https://github.com/1satyamdubey/portfolio/blob/main/index.md 
 
 ---
 
