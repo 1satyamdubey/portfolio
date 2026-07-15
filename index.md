@@ -3,8 +3,9 @@
 <img src="profile.jpg" alt="Satyam Dubey" width="200" style="border-radius:50%;"/>
 
 **B.Tech (Computer Science & Engineering, GLA University)**  
-📧 [satyam.dubey_cs23@gla.ac.in](mailto:satyam.dubey_cs23@gla.ac.in)  
-🔗 [LinkedIn](https://www.linkedin.com/in/satyamdubey) | [GitHub](https://github.com/satyamdubey)  
+[My GitHub](https://github.com/1satyamdubey)
+
+[My LinkedIn](https://www.linkedin.com/in/satyam-dubey-7a733a2b4)  
 
 ---
 
