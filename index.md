@@ -7,7 +7,7 @@
 
 [My LinkedIn](https://www.linkedin.com/in/satyam-dubey-7a733a2b4)  
 
-[My leetcode](.https://leetcode.com/u/satyamdubey111000/)
+[My leetcode](https://leetcode.com/u/satyamdubey111000/)
 
 ---
 
@@ -66,4 +66,4 @@ I build automation scripts, debug complex code, and make technical concepts begi
 
 [My LinkedIn](https://www.linkedin.com/in/satyam-dubey-7a733a2b4)  
 
-[My leetcode](.https://leetcode.com/u/satyamdubey111000/)
+[My leetcode](https://leetcode.com/u/satyamdubey111000/)
