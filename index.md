@@ -7,6 +7,8 @@
 
 [My LinkedIn](https://www.linkedin.com/in/satyam-dubey-7a733a2b4)  
 
+[My leetcode](.https://leetcode.com/u/satyamdubey111000/)
+
 ---
 
 ## 🚀 About Me
@@ -60,5 +62,8 @@ I build automation scripts, debug complex code, and make technical concepts begi
 
 ## 📞 Contact
 - 📧 [satyam.dubey_cs23@gla.ac.in](mailto:satyam.dubey_cs23@gla.ac.in)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/satyamdubey)  
-- 💻 [GitHub](https://github.com/satyamdubey)
+[My GitHub](https://github.com/1satyamdubey)
+
+[My LinkedIn](https://www.linkedin.com/in/satyam-dubey-7a733a2b4)  
+
+[My leetcode](.https://leetcode.com/u/satyamdubey111000/)
